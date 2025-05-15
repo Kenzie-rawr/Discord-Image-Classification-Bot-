@@ -30,4 +30,4 @@ async def check(ctx):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
-bot.run("MTI5NTczODY4OTc1Mzg0MTc2Ng.GfBduL.sqUpWHDuGhTODUJ3DV0Mw2KVGv3J_EaAHLPLiI")
+bot.run("TOKEN BOT")
